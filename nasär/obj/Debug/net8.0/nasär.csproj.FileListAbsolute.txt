@@ -1,0 +1,14 @@
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\bin\Debug\net8.0\nasär.exe
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\bin\Debug\net8.0\nasär.deps.json
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\bin\Debug\net8.0\nasär.runtimeconfig.json
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\bin\Debug\net8.0\nasär.dll
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\bin\Debug\net8.0\nasär.pdb
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.AssemblyInfoInputs.cache
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.AssemblyInfo.cs
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.csproj.CoreCompileInputs.cache
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.dll
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\refint\nasär.dll
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.pdb
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.genruntimeconfig.cache
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\ref\nasär.dll
