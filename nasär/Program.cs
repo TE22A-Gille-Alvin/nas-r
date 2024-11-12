@@ -24,12 +24,12 @@ using System.Runtime.Intrinsics.Arm;
 //     Console.WriteLine("Hello, World!");
 // }
 
-string name = "";
+string pass = "";
 
-while (name != "Micke")
+while (pass != "nopass")
 {
     Console.WriteLine("Skriv ditt namn:");
-    name = Console.ReadLine();
+    pass = Console.ReadLine();
 }
 
 
