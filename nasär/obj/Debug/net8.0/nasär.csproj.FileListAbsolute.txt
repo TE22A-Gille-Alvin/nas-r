@@ -12,3 +12,4 @@ c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\refint\nasär
 c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.pdb
 c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.genruntimeconfig.cache
 c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\ref\nasär.dll
+c:\Users\alvin.gille\Documents\Prog\nasär\nasär\obj\Debug\net8.0\nasär.sourcelink.json
