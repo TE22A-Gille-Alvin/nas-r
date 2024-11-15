@@ -32,18 +32,43 @@ using System.Runtime.Intrinsics.Arm;
 //     pass = Console.ReadLine();
 // }
 
+// for (int i = 0; i < 5; i++)
 
-for (int i = 0; i < 5; i++)
+// {
+//     string ne = Console.ReadLine();
+//     int n = 0;
+//     bool success = int.TryParse(ne, out n);
+//     if (n > 5)
+//     {
+//         Console.WriteLine("Högre än 5!");
+//     }
+// }
 
-{
-    string ne = Console.ReadLine();
-    int n = 0;
-    bool success = int.TryParse(ne, out n);
-    if (n > 5)
-    {
-        Console.WriteLine("Högre än 5!");
-    }
-}
+// string ne = Console.ReadLine();
+// int n = 0;
+// bool success = false;
+
+// while (success == false)
+// {
+//     ne = Console.ReadLine();
+//      n = 0;
+//     success = int.TryParse(ne, out n);
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
