@@ -24,16 +24,26 @@ using System.Runtime.Intrinsics.Arm;
 //     Console.WriteLine("Hello, World!");
 // }
 
-string pass = "";
+// string pass = "";
 
-while (pass != "nopass")
+// while (pass != "nopass")
+// {
+//     Console.WriteLine("Skriv ditt namn:");
+//     pass = Console.ReadLine();
+// }
+
+
+for (int i = 0; i < 5; i++)
+
 {
-    Console.WriteLine("Skriv ditt namn:");
-    pass = Console.ReadLine();
+    string ne = Console.ReadLine();
+    int n = 0;
+    bool success = int.TryParse(ne, out n);
+    if (n > 5)
+    {
+        Console.WriteLine("Högre än 5!");
+    }
 }
-
-
-
 
 
 
