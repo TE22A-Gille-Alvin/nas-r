@@ -55,7 +55,29 @@ using System.Runtime.Intrinsics.Arm;
 //     success = int.TryParse(ne, out n);
 // }
 
+Random generator = new Random();
+int r = Random.Shared.Next(100);
+bool brol = false;
+int g = 0;
 
+while (g != r)
+{
+    string re = Console.ReadLine();
+    brol = int.TryParse(re, out g);
+    if (g > r)
+    {
+        Console.WriteLine("Too High");
+    }
+    if (g < r)
+    {
+        Console.WriteLine("Too Low");
+
+    }
+    if (g == r)
+    {
+        Console.WriteLine("Correct");
+    }
+}
 
 
 
