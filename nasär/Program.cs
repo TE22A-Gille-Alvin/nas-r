@@ -86,8 +86,9 @@ using System.Runtime.Intrinsics.Arm;
 //     Console.WriteLine(choice);
 // }
 
-List<String> listnamn = ["Julius", "Yousuf", "Vincent", "Skoogen", "Andreas"];
+// List<String> listnamn = ["Julius", "Yousuf", "Vincent", "Skoogen", "Andreas"];
 
+List<String> listnamn = ["5", "2", "7", "3", "4"];
 
 
 
