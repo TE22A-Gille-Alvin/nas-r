@@ -79,13 +79,14 @@ using System.Runtime.Intrinsics.Arm;
 //     }
 // }
 
-List<String> listnamn = ["Lego", "Bayblade", "Bilar", "Bakugan", "Transformers"];
+// List<String> listnamn = ["Lego", "Bayblade", "Bilar", "Bakugan", "Transformers"];
 
-foreach (string choice in listnamn)
-{
-    Console.WriteLine(choice);
-}
+// foreach (string choice in listnamn)
+// {
+//     Console.WriteLine(choice);
+// }
 
+List<String> listnamn = ["Julius", "Yousuf", "Vincent", "Skoogen", "Andreas"];
 
 
 
