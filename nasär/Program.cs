@@ -79,22 +79,23 @@ using System.Runtime.Intrinsics.Arm;
 //     }
 // }
 
-List<String> listnamn = ["Lego betyget ", "Bayblade betyget ", "Bilar betyget ", "Bakugan betyget ", "Transformers betyget "];
+// List<String> listnamn = ["Lego betyget ", "Bayblade betyget ", "Bilar betyget ", "Bakugan betyget ", "Transformers betyget "];
 
 // foreach (string choice in listnamn)
 // {
 //     Console.WriteLine(choice);
 // }
 
-List<String> listnamn2 = ["Julius ger ", "Yousuf ger ", "Vincent ger ", "Skoogen ger ", "Andreas ger "];
+// List<String> listnamn2 = ["Julius ger ", "Yousuf ger ", "Vincent ger ", "Skoogen ger ", "Andreas ger "];
 
-List<String> listnamn3 = ["5", "2", "7", "3", "4"];
+// List<String> listnamn3 = ["5", "2", "7", "3", "4"];
 
-for (int i = 0; i < 5; i++)
-{
-    System.Console.WriteLine(listnamn2[i] + listnamn[i] + listnamn3[i]);
-}
+// for (int i = 0; i < 5; i++)
+// {
+//     System.Console.WriteLine(listnamn2[i] + listnamn[i] + listnamn3[i]);
+// }
 
+List<String> cities = [];
 
 
 
