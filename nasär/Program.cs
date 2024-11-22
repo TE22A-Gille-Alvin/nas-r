@@ -106,7 +106,10 @@ while(city != "exit")
     cities.Add(city);
 }
 
-
+foreach(string choice in cities)
+{
+    Console.WriteLine(choice);
+}
 
 
 
