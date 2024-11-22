@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nasär")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c158b842f2b9137bec3b4dbcae960ce33ff5b3ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c70595476f2fcf09644ceb8ae2c230da6eefc91")]
 [assembly: System.Reflection.AssemblyProductAttribute("nasär")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nasär")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

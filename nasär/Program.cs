@@ -55,30 +55,36 @@ using System.Runtime.Intrinsics.Arm;
 //     success = int.TryParse(ne, out n);
 // }
 
-Random generator = new Random();
-int r = Random.Shared.Next(100);
-bool brol = false;
-int g = 0;
+// Random generator = new Random();
+// int r = Random.Shared.Next(100);
+// bool brol = false;
+// int g = 0;
 
-while (g != r)
+// while (g != r)
+// {
+//     string re = Console.ReadLine();
+//     brol = int.TryParse(re, out g);
+//     if (g > r)
+//     {
+//         Console.WriteLine("Too High");
+//     }
+//     if (g < r)
+//     {
+//         Console.WriteLine("Too Low");
+
+//     }
+//     if (g == r)
+//     {
+//         Console.WriteLine("Correct");
+//     }
+// }
+
+List<String> listnamn = ["Lego", "Bayblade", "Bilar", "Bakugan", "Transformers"];
+
+foreach (string choice in listnamn)
 {
-    string re = Console.ReadLine();
-    brol = int.TryParse(re, out g);
-    if (g > r)
-    {
-        Console.WriteLine("Too High");
-    }
-    if (g < r)
-    {
-        Console.WriteLine("Too Low");
-
-    }
-    if (g == r)
-    {
-        Console.WriteLine("Correct");
-    }
+    Console.WriteLine(choice);
 }
-
 
 
 
