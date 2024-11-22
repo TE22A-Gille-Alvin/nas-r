@@ -2,6 +2,7 @@
 using System.Reflection.Metadata;
 using System.Runtime.CompilerServices;
 using System.Runtime.Intrinsics.Arm;
+using System.Security.Authentication;
 
 // if (6 >= 3)
 // Console.WriteLine("Hello, World!");
@@ -97,7 +98,13 @@ using System.Runtime.Intrinsics.Arm;
 
 List<String> cities = [];
 
+string city = "";
 
+while(city != "exit")
+{
+    city = Console.ReadLine();
+    cities.Add(city);
+}
 
 
 
