@@ -96,20 +96,20 @@ using System.Security.Authentication;
 //     System.Console.WriteLine(listnamn2[i] + listnamn[i] + listnamn3[i]);
 // }
 
-List<String> cities = [];
+// List<String> cities = [];
 
-string city = "";
+// string city = "";
 
-while(city != "exit")
-{
-    city = Console.ReadLine();
-    cities.Add(city);
-}
+// while(city != "exit")
+// {
+//     city = Console.ReadLine();
+//     cities.Add(city);
+// }
 
-foreach(string choice in cities)
-{
-    Console.WriteLine(choice);
-}
+// foreach(string choice in cities)
+// {
+//     Console.WriteLine(choice);
+// }
 
 
 
