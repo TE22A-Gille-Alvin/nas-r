@@ -111,17 +111,22 @@ using System.Security.Authentication;
 //     Console.WriteLine(choice);
 // }
 
-static void Hello32()
+// static void Hello32()
+// {
+//     for (int i = 0; i < 32; i++)
+//     {
+//         Console.WriteLine("Hello, World");
+//     }
+// }
+
+// Hello32();
+
+static void Square(int n)
 {
-    Console.WriteLine("Hello, World");
+    Console.WriteLine(n * n);
 }
 
-for (int i = 0; i < 32; i++)
-{
-    Hello32();
-}
-
-
+Square(3);
 
 
 
