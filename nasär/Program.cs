@@ -111,9 +111,15 @@ using System.Security.Authentication;
 //     Console.WriteLine(choice);
 // }
 
+static void Hello32()
+{
+    Console.WriteLine("Hello, World");
+}
 
-
-
+for (int i = 0; i < 32; i++)
+{
+    Hello32();
+}
 
 
 
