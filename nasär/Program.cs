@@ -121,18 +121,22 @@ using System.Security.Authentication;
 
 // Hello32();
 
-static void Square(int n)
+// static void Square(int n)
+// {
+//     Console.WriteLine(n * n);
+// }
+
+// Square(3);
+
+static float Multi(float n, float m)
 {
-    Console.WriteLine(n * n);
+float result = n * m;
+return result;
 }
 
-Square(3);
+float x = Multi(6.7f, 8);
 
-
-
-
-
-
+Console.WriteLine(x);
 
 
 
