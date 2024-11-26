@@ -128,16 +128,25 @@ using System.Security.Authentication;
 
 // Square(3);
 
-static float Multi(float n, float m)
+// static float Multi(float n, float m)
+// {
+// float result = n * m;
+// return result;
+// }
+
+// float x = Multi(6.7f, 8);
+
+// Console.WriteLine(x);
+
+static float RightTriangleArea(float n, float m)
 {
-float result = n * m;
+float result = (n * m) / 2;
 return result;
 }
 
-float x = Multi(6.7f, 8);
+float x = RightTriangleArea(7, 4);
 
 Console.WriteLine(x);
-
 
 
 
