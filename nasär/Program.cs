@@ -121,32 +121,41 @@ using System.Security.Authentication;
 
 // Hello32();
 
-// static void Square(int n)
-// {
-//     Console.WriteLine(n * n);
-// }
+static void Square(int n)
+{
+    Console.WriteLine(n * n);
+}
 
-// Square(3);
+int s = GetNumnberInput();
 
-// static float Multi(float n, float m)
-// {
-// float result = n * m;
-// return result;
-// }
+Square(s);
 
-// float x = Multi(6.7f, 8);
+static float Multi(float n, float m)
+{
+    float result = n * m;
+    return result;
+}
 
-// Console.WriteLine(x);
+int m1 = GetNumnberInput();
+int m2 = GetNumnberInput();
 
-// static float RightTriangleArea(float n, float m)
-// {
-// float result = (n * m) / 2;
-// return result;
-// }
 
-// float y = RightTriangleArea(7, 4);
+float x = Multi(m1, m2);
 
-// Console.WriteLine(y);
+Console.WriteLine(x);
+
+static float RightTriangleArea(float n, float m)
+{
+    float result = (n * m) / 2;
+    return result;
+}
+
+int r1 = GetNumnberInput();
+int r2 = GetNumnberInput();
+
+float y = RightTriangleArea(r1, r2);
+
+Console.WriteLine(y);
 
 static int GetNumnberInput()
 {
